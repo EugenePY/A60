@@ -2,8 +2,11 @@
 
 Hi, Andrew nice work!
 
-Since you are using the web based eda tool, it very simple and have great integration with the pcb/eletronic component firms, but you still need to learn
-KiCAD, there are few benifit for kicad. 
+Since you are using the web based eda tool. I generaly do not have any problem 
+with the tools, it very simple and have great integration with the pcb/eletronic 
+component firms, but I suggest you still need to learn KiCAD, 
+
+There are few benifit about kicad. 
 
 1. it's open sourced.
 2. it has a great supported by the eda/keyboard community.
