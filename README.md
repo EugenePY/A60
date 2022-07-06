@@ -14,7 +14,7 @@ There are few benifit about kicad.
 Most of open sourced EE project are using kicad as their tools, and some of 
 professional still prefer it to some commercial EDAs like EAGLE, Altium. 
 
-there are few learning resource for kicad, one of most popular one is the 
+there are many learning resource for kicad, one of most popular one is the 
 [Ai03's Keyboard Guide](https://wiki.ai03.com/books/pcb-design/page/pcb-guide-part-1---preparations)
 
 You may follow it to know how to use kicad. Kicad also has a lot of open sourced footprint libarary.
