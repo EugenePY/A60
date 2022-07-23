@@ -1,6 +1,6 @@
 {
     "keyboard_name": "Forest65",
-    "url": "https://charue-design.com/products/sunsetter",
+    "url": "",
     "maintainer": "Timal",
     "layouts": {
         "LAYOUT_all": {
@@ -77,11 +77,11 @@
 
                 {"label":"F9/11", "x":0, "y":4},
                 {"label":"F10/12", "x":1, "y":4},
-                {"label":"Ctrl", "x":2.25, "y":4, "w":1.25},
-                {"label":"Win", "x":3.5, "y":4, "w":1.25},
-                {"label":"Alt", "x":4.75, "y":4, "w":1.25},
-                {"label":"6.25", "x":6, "y":4, "w":6.25},
-                {"label":"Fn", "x":12.25, "y":4},
+                {"label":"Ctrl", "x":2.25, "y":4, "w":1.5},
+                {"label":"Win", "x":3.75, "y":4, "w":1},
+                {"label":"Alt", "x":5, "y":4, "w":1.5},
+                {"label":"sapcebar", "x":6.5, "y":4, "w":7},
+                {"label":"Fn", "x":13.5, "y":4, "w":1.5},
                 {"label":"<i class='kb kb-Arrows-Left'></i>", "x":15.25, "y":4},
                 {"label":"<i class='kb kb-Arrows-Down'></i>", "x":16.25, "y":4},
                 {"label":"<i class='kb kb-Arrows-Right'></i>", "x":17.25, "y":4}
